@@ -1,0 +1,17 @@
+{
+  "name": "stop-cursor-blinking",
+  "version": "0.0.0",
+  "description": "Stop the cursor from blinking. STOP!",
+  "keywords": [
+    "cursor",
+    "blink",
+    "blinking"
+  ],
+  "repository": "https://github.com/stefansundin/atom-stop-cursor-blinking",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
