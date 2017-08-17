@@ -1,4 +1,4 @@
-# atom-stop-cursor-blinking package
+# stop-cursor-blinking package
 
 Seriously, just stop blinking!
 
