@@ -2,4 +2,4 @@
 
 Seriously, just stop blinking!
 
-Tested with Atom 1.19.0.
+Tested with Atom 1.19.

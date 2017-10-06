@@ -1,7 +1,7 @@
 {
   "name": "stop-cursor-blinking",
   "version": "1.0.0",
-  "description": "Stop the cursor from blinking. STOP!",
+  "description": "Stop the cursor from blinking.",
   "keywords": [
     "cursor",
     "blink",
