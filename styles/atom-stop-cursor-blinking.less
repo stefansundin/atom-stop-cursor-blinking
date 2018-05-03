@@ -1,5 +1,6 @@
 // https://github.com/atom/atom/blob/7d6bd2a6b19be004254865d163d74bd5e849be2f/static/text-editor.less#L132-L138
+// The :not(.normal-mode) is a fix for vim-mode-plus. See https://github.com/stefansundin/atom-stop-cursor-blinking/issues/1
 
-atom-text-editor.editor.is-focused .cursors.blink-off .cursor {
+atom-text-editor.editor.is-focused:not(.normal-mode) .cursors.blink-off .cursor {
   opacity: 1 !important;
 }
