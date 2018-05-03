@@ -7,7 +7,7 @@
     "blink",
     "blinking"
   ],
-  "repository": "https://github.com/stefansundin/atom-stop-cursor-blinking",
+  "repository": "ssh://git@github.com/stefansundin/atom-stop-cursor-blinking",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
